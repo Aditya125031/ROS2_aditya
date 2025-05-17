@@ -128,6 +128,35 @@ Before starting with the Ubuntu and ROS 2 setup, I decided to revisit C++ since 
   - Sourced the workspace environment
   - Successfully ran the subscriber node to receive and display random integers
 
+## ⚠️ Challenges Encountered
+
+### 🧩 Building Another Package
+
+- Faced difficulties when building an additional package.
+- Did not encounter issues with the Turtlesim Spiral, as the code was sourced from Git.
+- Writing the `CMakeLists.txt` and `package.xml` files became a significant challenge.
+- Compared my files with those from the Spiral package to identify inconsistencies. Upon finding discrepancies, I researched solutions and sought assistance.
+- Overcame the challenges with some help from fellow interns.
+
+### 🚀 Running the Nodes
+
+- Initially believed that the `CMakeLists.txt` and `package.xml` files were correctly configured, as the workspace built without errors.
+- Encountered issues when sourcing the files.
+- Upon reviewing and comparing the files, realized there were mistakes in the project name, which caused the issues.
+
+### 📤 Uploading the Code to GitHub
+
+- Initially attempted to upload the entire workspace to Git, which resulted in errors, leading to the realization that uploading the entire workspace is not ideal.
+- Considered uploading a zip file, as done previously in the Maze Rover project, but this approach was not favored by the mentor.
+- Observed peers' repositories and decided to upload only the `src` folder containing the essential files.
+- Still need to resolve the issue of uploading a folder to Git using the terminal, as Git encountered problems with the generated token.
+
+### 📝 Writing the Markdown File
+
+- For tasks completed before becoming an intern, the `README.md` file was plain text due to a lack of knowledge about Markdown.
+- Recently learned some Markdown syntax; while not yet proficient, with assistance from Google and AI tools, managed to make it work.
+- Aim to become proficient in creating these files through continued practice.
+
 ## ⚙️ Prerequisites
 
 - Ubuntu 22.04  
