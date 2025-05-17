@@ -161,9 +161,9 @@ task1_ws/
 
 ## 📚 Resources Used
 
-- [ROS 2 Publisher and Subscriber Tutorial by Kevin Wood](https://youtu.be/HJAE5Pk8Nyw)
-- [ROS 2 Service and Client Tutorial by Backend robotics ](https://youtu.be/0aPbWsyENA8)
-- [ROS 2 Action Server and Client Tutorial Series by Robotgeddon](https://www.youtube.com/watch?v=QfFnljTrRlQ&list=PLNw2RD-1J5YZbyWXCpas9zPJldfphPi4Q)
+- [ROS 2 Tutorial by Kevin Wood](https://youtu.be/HJAE5Pk8Nyw)
+- [ROS 2 Tutorial by Backend robotics ](https://youtu.be/0aPbWsyENA8)
+- [ROS 2 Tutorial Series by Robotgeddon](https://www.youtube.com/watch?v=QfFnljTrRlQ&list=PLNw2RD-1J5YZbyWXCpas9zPJldfphPi4Q)
 - [ROS 2 Docs](https://docs.ros.org/en/humble/index.html)
 - [Articulated Robotics Tutorials](https://articulatedrobotics.xyz/tutorials/)
 
