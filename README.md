@@ -75,6 +75,19 @@ Before starting with the Ubuntu and ROS 2 setup, I decided to revisit C++ since 
 - Sourced the workspace environment to use the new package  
 
 ---
+## 📄 CMake File
+
+- **Defines project information** — including the project name, version, and programming language.  
+- **Specifies source files** — such as the relevant `.cpp` source files required for building the project.  
+- **Manages dependencies** — and links to necessary external libraries to ensure proper functionality.  
+- **Handles installation and supports testing** — by defining installation rules and enabling integration with testing frameworks.
+
+## 📦 package.xml
+
+- **Specifies package metadata** — including the package name, version, description, maintainer, and authors.  
+- **Declares dependencies** — lists other ROS packages and system dependencies required to build and run the package.  
+- **Defines license and versioning** — ensuring compliance and proper package tracking.  
+- **Enables build and install tools** — such as `colcon` and `rosdep` to automate building, installing, and resolving dependencies.
 
 ## 🌀 Testing the Turtlesim Spiral
 
